@@ -12,6 +12,7 @@ function App() {
   const [priceRange, setPriceRange] = useState([0, 200]);
 
   const categories = [
+    "All",
     "Electronics",
     "Jewelery",
     "Men's clothing",
